@@ -1,0 +1,14 @@
+.clear-btn {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4em;
+  font-weight: lighter;
+  background-color: #c7c4c4;
+  color: #000000;
+  flex: 1;
+  border-top: 1px solid #888888;
+  padding: 10px;
+  border-radius: 0 0 15px 15px;
+}
